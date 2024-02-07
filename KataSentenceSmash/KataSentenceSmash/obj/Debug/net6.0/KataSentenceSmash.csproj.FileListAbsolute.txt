@@ -1,0 +1,15 @@
+C:\Users\lefam\source\repos\KataSentenceSmash\KataSentenceSmash\bin\Debug\net6.0\KataSentenceSmash.exe
+C:\Users\lefam\source\repos\KataSentenceSmash\KataSentenceSmash\bin\Debug\net6.0\KataSentenceSmash.deps.json
+C:\Users\lefam\source\repos\KataSentenceSmash\KataSentenceSmash\bin\Debug\net6.0\KataSentenceSmash.runtimeconfig.json
+C:\Users\lefam\source\repos\KataSentenceSmash\KataSentenceSmash\bin\Debug\net6.0\KataSentenceSmash.dll
+C:\Users\lefam\source\repos\KataSentenceSmash\KataSentenceSmash\bin\Debug\net6.0\KataSentenceSmash.pdb
+C:\Users\lefam\source\repos\KataSentenceSmash\KataSentenceSmash\obj\Debug\net6.0\KataSentenceSmash.csproj.AssemblyReference.cache
+C:\Users\lefam\source\repos\KataSentenceSmash\KataSentenceSmash\obj\Debug\net6.0\KataSentenceSmash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lefam\source\repos\KataSentenceSmash\KataSentenceSmash\obj\Debug\net6.0\KataSentenceSmash.AssemblyInfoInputs.cache
+C:\Users\lefam\source\repos\KataSentenceSmash\KataSentenceSmash\obj\Debug\net6.0\KataSentenceSmash.AssemblyInfo.cs
+C:\Users\lefam\source\repos\KataSentenceSmash\KataSentenceSmash\obj\Debug\net6.0\KataSentenceSmash.csproj.CoreCompileInputs.cache
+C:\Users\lefam\source\repos\KataSentenceSmash\KataSentenceSmash\obj\Debug\net6.0\KataSentenceSmash.dll
+C:\Users\lefam\source\repos\KataSentenceSmash\KataSentenceSmash\obj\Debug\net6.0\refint\KataSentenceSmash.dll
+C:\Users\lefam\source\repos\KataSentenceSmash\KataSentenceSmash\obj\Debug\net6.0\KataSentenceSmash.pdb
+C:\Users\lefam\source\repos\KataSentenceSmash\KataSentenceSmash\obj\Debug\net6.0\KataSentenceSmash.genruntimeconfig.cache
+C:\Users\lefam\source\repos\KataSentenceSmash\KataSentenceSmash\obj\Debug\net6.0\ref\KataSentenceSmash.dll

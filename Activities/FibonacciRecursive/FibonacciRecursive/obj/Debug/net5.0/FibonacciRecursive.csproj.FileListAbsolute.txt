@@ -1,0 +1,16 @@
+C:\Users\m.moletsane\source\repos\FibonacciRecursive\FibonacciRecursive\bin\Debug\net5.0\FibonacciRecursive.exe
+C:\Users\m.moletsane\source\repos\FibonacciRecursive\FibonacciRecursive\bin\Debug\net5.0\FibonacciRecursive.deps.json
+C:\Users\m.moletsane\source\repos\FibonacciRecursive\FibonacciRecursive\bin\Debug\net5.0\FibonacciRecursive.runtimeconfig.json
+C:\Users\m.moletsane\source\repos\FibonacciRecursive\FibonacciRecursive\bin\Debug\net5.0\FibonacciRecursive.runtimeconfig.dev.json
+C:\Users\m.moletsane\source\repos\FibonacciRecursive\FibonacciRecursive\bin\Debug\net5.0\FibonacciRecursive.dll
+C:\Users\m.moletsane\source\repos\FibonacciRecursive\FibonacciRecursive\bin\Debug\net5.0\FibonacciRecursive.pdb
+C:\Users\m.moletsane\source\repos\FibonacciRecursive\FibonacciRecursive\obj\Debug\net5.0\FibonacciRecursive.csproj.AssemblyReference.cache
+C:\Users\m.moletsane\source\repos\FibonacciRecursive\FibonacciRecursive\obj\Debug\net5.0\FibonacciRecursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.moletsane\source\repos\FibonacciRecursive\FibonacciRecursive\obj\Debug\net5.0\FibonacciRecursive.AssemblyInfoInputs.cache
+C:\Users\m.moletsane\source\repos\FibonacciRecursive\FibonacciRecursive\obj\Debug\net5.0\FibonacciRecursive.AssemblyInfo.cs
+C:\Users\m.moletsane\source\repos\FibonacciRecursive\FibonacciRecursive\obj\Debug\net5.0\FibonacciRecursive.csproj.CoreCompileInputs.cache
+C:\Users\m.moletsane\source\repos\FibonacciRecursive\FibonacciRecursive\obj\Debug\net5.0\FibonacciRecursive.dll
+C:\Users\m.moletsane\source\repos\FibonacciRecursive\FibonacciRecursive\obj\Debug\net5.0\refint\FibonacciRecursive.dll
+C:\Users\m.moletsane\source\repos\FibonacciRecursive\FibonacciRecursive\obj\Debug\net5.0\FibonacciRecursive.pdb
+C:\Users\m.moletsane\source\repos\FibonacciRecursive\FibonacciRecursive\obj\Debug\net5.0\FibonacciRecursive.genruntimeconfig.cache
+C:\Users\m.moletsane\source\repos\FibonacciRecursive\FibonacciRecursive\obj\Debug\net5.0\ref\FibonacciRecursive.dll

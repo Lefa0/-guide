@@ -1,0 +1,15 @@
+C:\Users\lefam\source\repos\KATACockroachSpeed\bin\Debug\net6.0\KATACockroachSpeed.exe
+C:\Users\lefam\source\repos\KATACockroachSpeed\bin\Debug\net6.0\KATACockroachSpeed.deps.json
+C:\Users\lefam\source\repos\KATACockroachSpeed\bin\Debug\net6.0\KATACockroachSpeed.runtimeconfig.json
+C:\Users\lefam\source\repos\KATACockroachSpeed\bin\Debug\net6.0\KATACockroachSpeed.dll
+C:\Users\lefam\source\repos\KATACockroachSpeed\bin\Debug\net6.0\KATACockroachSpeed.pdb
+C:\Users\lefam\source\repos\KATACockroachSpeed\obj\Debug\net6.0\KATACockroachSpeed.csproj.AssemblyReference.cache
+C:\Users\lefam\source\repos\KATACockroachSpeed\obj\Debug\net6.0\KATACockroachSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lefam\source\repos\KATACockroachSpeed\obj\Debug\net6.0\KATACockroachSpeed.AssemblyInfoInputs.cache
+C:\Users\lefam\source\repos\KATACockroachSpeed\obj\Debug\net6.0\KATACockroachSpeed.AssemblyInfo.cs
+C:\Users\lefam\source\repos\KATACockroachSpeed\obj\Debug\net6.0\KATACockroachSpeed.csproj.CoreCompileInputs.cache
+C:\Users\lefam\source\repos\KATACockroachSpeed\obj\Debug\net6.0\KATACockroachSpeed.dll
+C:\Users\lefam\source\repos\KATACockroachSpeed\obj\Debug\net6.0\refint\KATACockroachSpeed.dll
+C:\Users\lefam\source\repos\KATACockroachSpeed\obj\Debug\net6.0\KATACockroachSpeed.pdb
+C:\Users\lefam\source\repos\KATACockroachSpeed\obj\Debug\net6.0\KATACockroachSpeed.genruntimeconfig.cache
+C:\Users\lefam\source\repos\KATACockroachSpeed\obj\Debug\net6.0\ref\KATACockroachSpeed.dll

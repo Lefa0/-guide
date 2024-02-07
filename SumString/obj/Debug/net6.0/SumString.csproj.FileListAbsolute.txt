@@ -1,0 +1,15 @@
+C:\Users\lefam\source\repos\SumString\bin\Debug\net6.0\SumString.exe
+C:\Users\lefam\source\repos\SumString\bin\Debug\net6.0\SumString.deps.json
+C:\Users\lefam\source\repos\SumString\bin\Debug\net6.0\SumString.runtimeconfig.json
+C:\Users\lefam\source\repos\SumString\bin\Debug\net6.0\SumString.dll
+C:\Users\lefam\source\repos\SumString\bin\Debug\net6.0\SumString.pdb
+C:\Users\lefam\source\repos\SumString\obj\Debug\net6.0\SumString.csproj.AssemblyReference.cache
+C:\Users\lefam\source\repos\SumString\obj\Debug\net6.0\SumString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lefam\source\repos\SumString\obj\Debug\net6.0\SumString.AssemblyInfoInputs.cache
+C:\Users\lefam\source\repos\SumString\obj\Debug\net6.0\SumString.AssemblyInfo.cs
+C:\Users\lefam\source\repos\SumString\obj\Debug\net6.0\SumString.csproj.CoreCompileInputs.cache
+C:\Users\lefam\source\repos\SumString\obj\Debug\net6.0\SumString.dll
+C:\Users\lefam\source\repos\SumString\obj\Debug\net6.0\refint\SumString.dll
+C:\Users\lefam\source\repos\SumString\obj\Debug\net6.0\SumString.pdb
+C:\Users\lefam\source\repos\SumString\obj\Debug\net6.0\SumString.genruntimeconfig.cache
+C:\Users\lefam\source\repos\SumString\obj\Debug\net6.0\ref\SumString.dll

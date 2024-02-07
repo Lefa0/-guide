@@ -1,0 +1,15 @@
+C:\Users\lefam\source\repos\KataSquareSum\KataSquareSum\bin\Debug\net6.0\KataSquareSum.exe
+C:\Users\lefam\source\repos\KataSquareSum\KataSquareSum\bin\Debug\net6.0\KataSquareSum.deps.json
+C:\Users\lefam\source\repos\KataSquareSum\KataSquareSum\bin\Debug\net6.0\KataSquareSum.runtimeconfig.json
+C:\Users\lefam\source\repos\KataSquareSum\KataSquareSum\bin\Debug\net6.0\KataSquareSum.dll
+C:\Users\lefam\source\repos\KataSquareSum\KataSquareSum\bin\Debug\net6.0\KataSquareSum.pdb
+C:\Users\lefam\source\repos\KataSquareSum\KataSquareSum\obj\Debug\net6.0\KataSquareSum.csproj.AssemblyReference.cache
+C:\Users\lefam\source\repos\KataSquareSum\KataSquareSum\obj\Debug\net6.0\KataSquareSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lefam\source\repos\KataSquareSum\KataSquareSum\obj\Debug\net6.0\KataSquareSum.AssemblyInfoInputs.cache
+C:\Users\lefam\source\repos\KataSquareSum\KataSquareSum\obj\Debug\net6.0\KataSquareSum.AssemblyInfo.cs
+C:\Users\lefam\source\repos\KataSquareSum\KataSquareSum\obj\Debug\net6.0\KataSquareSum.csproj.CoreCompileInputs.cache
+C:\Users\lefam\source\repos\KataSquareSum\KataSquareSum\obj\Debug\net6.0\KataSquareSum.dll
+C:\Users\lefam\source\repos\KataSquareSum\KataSquareSum\obj\Debug\net6.0\refint\KataSquareSum.dll
+C:\Users\lefam\source\repos\KataSquareSum\KataSquareSum\obj\Debug\net6.0\KataSquareSum.pdb
+C:\Users\lefam\source\repos\KataSquareSum\KataSquareSum\obj\Debug\net6.0\KataSquareSum.genruntimeconfig.cache
+C:\Users\lefam\source\repos\KataSquareSum\KataSquareSum\obj\Debug\net6.0\ref\KataSquareSum.dll

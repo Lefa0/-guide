@@ -1,0 +1,15 @@
+C:\Users\lefam\source\repos\TwotoOne\bin\Debug\net6.0\TwoToOneKata.exe
+C:\Users\lefam\source\repos\TwotoOne\bin\Debug\net6.0\TwoToOneKata.deps.json
+C:\Users\lefam\source\repos\TwotoOne\bin\Debug\net6.0\TwoToOneKata.runtimeconfig.json
+C:\Users\lefam\source\repos\TwotoOne\bin\Debug\net6.0\TwoToOneKata.dll
+C:\Users\lefam\source\repos\TwotoOne\bin\Debug\net6.0\TwoToOneKata.pdb
+C:\Users\lefam\source\repos\TwotoOne\obj\Debug\net6.0\TwoToOneKata.csproj.AssemblyReference.cache
+C:\Users\lefam\source\repos\TwotoOne\obj\Debug\net6.0\TwoToOneKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lefam\source\repos\TwotoOne\obj\Debug\net6.0\TwoToOneKata.AssemblyInfoInputs.cache
+C:\Users\lefam\source\repos\TwotoOne\obj\Debug\net6.0\TwoToOneKata.AssemblyInfo.cs
+C:\Users\lefam\source\repos\TwotoOne\obj\Debug\net6.0\TwoToOneKata.csproj.CoreCompileInputs.cache
+C:\Users\lefam\source\repos\TwotoOne\obj\Debug\net6.0\TwoToOneKata.dll
+C:\Users\lefam\source\repos\TwotoOne\obj\Debug\net6.0\refint\TwoToOneKata.dll
+C:\Users\lefam\source\repos\TwotoOne\obj\Debug\net6.0\TwoToOneKata.pdb
+C:\Users\lefam\source\repos\TwotoOne\obj\Debug\net6.0\TwoToOneKata.genruntimeconfig.cache
+C:\Users\lefam\source\repos\TwotoOne\obj\Debug\net6.0\ref\TwoToOneKata.dll

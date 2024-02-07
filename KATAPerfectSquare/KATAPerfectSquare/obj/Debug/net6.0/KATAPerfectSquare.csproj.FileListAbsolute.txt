@@ -1,0 +1,15 @@
+C:\Users\lefam\source\repos\KATAPerfectSquare\KATAPerfectSquare\bin\Debug\net6.0\KATAPerfectSquare.exe
+C:\Users\lefam\source\repos\KATAPerfectSquare\KATAPerfectSquare\bin\Debug\net6.0\KATAPerfectSquare.deps.json
+C:\Users\lefam\source\repos\KATAPerfectSquare\KATAPerfectSquare\bin\Debug\net6.0\KATAPerfectSquare.runtimeconfig.json
+C:\Users\lefam\source\repos\KATAPerfectSquare\KATAPerfectSquare\bin\Debug\net6.0\KATAPerfectSquare.dll
+C:\Users\lefam\source\repos\KATAPerfectSquare\KATAPerfectSquare\bin\Debug\net6.0\KATAPerfectSquare.pdb
+C:\Users\lefam\source\repos\KATAPerfectSquare\KATAPerfectSquare\obj\Debug\net6.0\KATAPerfectSquare.csproj.AssemblyReference.cache
+C:\Users\lefam\source\repos\KATAPerfectSquare\KATAPerfectSquare\obj\Debug\net6.0\KATAPerfectSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lefam\source\repos\KATAPerfectSquare\KATAPerfectSquare\obj\Debug\net6.0\KATAPerfectSquare.AssemblyInfoInputs.cache
+C:\Users\lefam\source\repos\KATAPerfectSquare\KATAPerfectSquare\obj\Debug\net6.0\KATAPerfectSquare.AssemblyInfo.cs
+C:\Users\lefam\source\repos\KATAPerfectSquare\KATAPerfectSquare\obj\Debug\net6.0\KATAPerfectSquare.csproj.CoreCompileInputs.cache
+C:\Users\lefam\source\repos\KATAPerfectSquare\KATAPerfectSquare\obj\Debug\net6.0\KATAPerfectSquare.dll
+C:\Users\lefam\source\repos\KATAPerfectSquare\KATAPerfectSquare\obj\Debug\net6.0\refint\KATAPerfectSquare.dll
+C:\Users\lefam\source\repos\KATAPerfectSquare\KATAPerfectSquare\obj\Debug\net6.0\KATAPerfectSquare.pdb
+C:\Users\lefam\source\repos\KATAPerfectSquare\KATAPerfectSquare\obj\Debug\net6.0\KATAPerfectSquare.genruntimeconfig.cache
+C:\Users\lefam\source\repos\KATAPerfectSquare\KATAPerfectSquare\obj\Debug\net6.0\ref\KATAPerfectSquare.dll

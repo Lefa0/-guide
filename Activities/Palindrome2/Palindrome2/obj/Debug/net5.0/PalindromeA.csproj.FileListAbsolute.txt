@@ -1,0 +1,16 @@
+C:\Users\m.moletsane\source\repos\Palindrome2\Palindrome2\bin\Debug\net5.0\PalindromeA.exe
+C:\Users\m.moletsane\source\repos\Palindrome2\Palindrome2\bin\Debug\net5.0\PalindromeA.deps.json
+C:\Users\m.moletsane\source\repos\Palindrome2\Palindrome2\bin\Debug\net5.0\PalindromeA.runtimeconfig.json
+C:\Users\m.moletsane\source\repos\Palindrome2\Palindrome2\bin\Debug\net5.0\PalindromeA.runtimeconfig.dev.json
+C:\Users\m.moletsane\source\repos\Palindrome2\Palindrome2\bin\Debug\net5.0\PalindromeA.dll
+C:\Users\m.moletsane\source\repos\Palindrome2\Palindrome2\bin\Debug\net5.0\PalindromeA.pdb
+C:\Users\m.moletsane\source\repos\Palindrome2\Palindrome2\obj\Debug\net5.0\PalindromeA.csproj.AssemblyReference.cache
+C:\Users\m.moletsane\source\repos\Palindrome2\Palindrome2\obj\Debug\net5.0\PalindromeA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.moletsane\source\repos\Palindrome2\Palindrome2\obj\Debug\net5.0\PalindromeA.AssemblyInfoInputs.cache
+C:\Users\m.moletsane\source\repos\Palindrome2\Palindrome2\obj\Debug\net5.0\PalindromeA.AssemblyInfo.cs
+C:\Users\m.moletsane\source\repos\Palindrome2\Palindrome2\obj\Debug\net5.0\PalindromeA.csproj.CoreCompileInputs.cache
+C:\Users\m.moletsane\source\repos\Palindrome2\Palindrome2\obj\Debug\net5.0\PalindromeA.dll
+C:\Users\m.moletsane\source\repos\Palindrome2\Palindrome2\obj\Debug\net5.0\refint\PalindromeA.dll
+C:\Users\m.moletsane\source\repos\Palindrome2\Palindrome2\obj\Debug\net5.0\PalindromeA.pdb
+C:\Users\m.moletsane\source\repos\Palindrome2\Palindrome2\obj\Debug\net5.0\PalindromeA.genruntimeconfig.cache
+C:\Users\m.moletsane\source\repos\Palindrome2\Palindrome2\obj\Debug\net5.0\ref\PalindromeA.dll

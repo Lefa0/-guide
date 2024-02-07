@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataStringEndsWith", "KataStringEndsWith\KataStringEndsWith.csproj", "{5465E2CD-B893-4A81-8572-A0303B282DFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataStringEndsWithTests", "KataStringEndsWithTests\KataStringEndsWithTests.csproj", "{B5EEC905-5863-4B1F-AE2C-698E00096545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5465E2CD-B893-4A81-8572-A0303B282DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5465E2CD-B893-4A81-8572-A0303B282DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5465E2CD-B893-4A81-8572-A0303B282DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5465E2CD-B893-4A81-8572-A0303B282DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EEC905-5863-4B1F-AE2C-698E00096545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EEC905-5863-4B1F-AE2C-698E00096545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EEC905-5863-4B1F-AE2C-698E00096545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EEC905-5863-4B1F-AE2C-698E00096545}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E729C5A-AC9E-47E3-9346-0DB83FC8E233}
+	EndGlobalSection
+EndGlobal

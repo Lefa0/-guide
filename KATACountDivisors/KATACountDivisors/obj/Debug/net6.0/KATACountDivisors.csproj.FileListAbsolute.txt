@@ -1,0 +1,15 @@
+C:\Users\lefam\source\repos\KATACountDivisors\KATACountDivisors\bin\Debug\net6.0\KATACountDivisors.exe
+C:\Users\lefam\source\repos\KATACountDivisors\KATACountDivisors\bin\Debug\net6.0\KATACountDivisors.deps.json
+C:\Users\lefam\source\repos\KATACountDivisors\KATACountDivisors\bin\Debug\net6.0\KATACountDivisors.runtimeconfig.json
+C:\Users\lefam\source\repos\KATACountDivisors\KATACountDivisors\bin\Debug\net6.0\KATACountDivisors.dll
+C:\Users\lefam\source\repos\KATACountDivisors\KATACountDivisors\bin\Debug\net6.0\KATACountDivisors.pdb
+C:\Users\lefam\source\repos\KATACountDivisors\KATACountDivisors\obj\Debug\net6.0\KATACountDivisors.csproj.AssemblyReference.cache
+C:\Users\lefam\source\repos\KATACountDivisors\KATACountDivisors\obj\Debug\net6.0\KATACountDivisors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lefam\source\repos\KATACountDivisors\KATACountDivisors\obj\Debug\net6.0\KATACountDivisors.AssemblyInfoInputs.cache
+C:\Users\lefam\source\repos\KATACountDivisors\KATACountDivisors\obj\Debug\net6.0\KATACountDivisors.AssemblyInfo.cs
+C:\Users\lefam\source\repos\KATACountDivisors\KATACountDivisors\obj\Debug\net6.0\KATACountDivisors.csproj.CoreCompileInputs.cache
+C:\Users\lefam\source\repos\KATACountDivisors\KATACountDivisors\obj\Debug\net6.0\KATACountDivisors.dll
+C:\Users\lefam\source\repos\KATACountDivisors\KATACountDivisors\obj\Debug\net6.0\refint\KATACountDivisors.dll
+C:\Users\lefam\source\repos\KATACountDivisors\KATACountDivisors\obj\Debug\net6.0\KATACountDivisors.pdb
+C:\Users\lefam\source\repos\KATACountDivisors\KATACountDivisors\obj\Debug\net6.0\KATACountDivisors.genruntimeconfig.cache
+C:\Users\lefam\source\repos\KATACountDivisors\KATACountDivisors\obj\Debug\net6.0\ref\KATACountDivisors.dll

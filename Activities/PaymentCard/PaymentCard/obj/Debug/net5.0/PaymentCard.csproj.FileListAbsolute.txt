@@ -1,0 +1,16 @@
+C:\Users\m.moletsane\source\repos\PaymentCard\PaymentCard\bin\Debug\net5.0\PaymentCard.exe
+C:\Users\m.moletsane\source\repos\PaymentCard\PaymentCard\bin\Debug\net5.0\PaymentCard.deps.json
+C:\Users\m.moletsane\source\repos\PaymentCard\PaymentCard\bin\Debug\net5.0\PaymentCard.runtimeconfig.json
+C:\Users\m.moletsane\source\repos\PaymentCard\PaymentCard\bin\Debug\net5.0\PaymentCard.runtimeconfig.dev.json
+C:\Users\m.moletsane\source\repos\PaymentCard\PaymentCard\bin\Debug\net5.0\PaymentCard.dll
+C:\Users\m.moletsane\source\repos\PaymentCard\PaymentCard\bin\Debug\net5.0\PaymentCard.pdb
+C:\Users\m.moletsane\source\repos\PaymentCard\PaymentCard\obj\Debug\net5.0\PaymentCard.csproj.AssemblyReference.cache
+C:\Users\m.moletsane\source\repos\PaymentCard\PaymentCard\obj\Debug\net5.0\PaymentCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.moletsane\source\repos\PaymentCard\PaymentCard\obj\Debug\net5.0\PaymentCard.AssemblyInfoInputs.cache
+C:\Users\m.moletsane\source\repos\PaymentCard\PaymentCard\obj\Debug\net5.0\PaymentCard.AssemblyInfo.cs
+C:\Users\m.moletsane\source\repos\PaymentCard\PaymentCard\obj\Debug\net5.0\PaymentCard.csproj.CoreCompileInputs.cache
+C:\Users\m.moletsane\source\repos\PaymentCard\PaymentCard\obj\Debug\net5.0\PaymentCard.dll
+C:\Users\m.moletsane\source\repos\PaymentCard\PaymentCard\obj\Debug\net5.0\refint\PaymentCard.dll
+C:\Users\m.moletsane\source\repos\PaymentCard\PaymentCard\obj\Debug\net5.0\PaymentCard.pdb
+C:\Users\m.moletsane\source\repos\PaymentCard\PaymentCard\obj\Debug\net5.0\PaymentCard.genruntimeconfig.cache
+C:\Users\m.moletsane\source\repos\PaymentCard\PaymentCard\obj\Debug\net5.0\ref\PaymentCard.dll

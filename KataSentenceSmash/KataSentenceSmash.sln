@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataSentenceSmash", "KataSentenceSmash\KataSentenceSmash.csproj", "{8A6611FA-1790-4984-9F93-874F58ABF32C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataSentenceSmashTests", "KataSentenceSmashTests\KataSentenceSmashTests.csproj", "{36BEE1A5-890F-4CCD-AE2A-ADE2FF6F5CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A6611FA-1790-4984-9F93-874F58ABF32C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6611FA-1790-4984-9F93-874F58ABF32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6611FA-1790-4984-9F93-874F58ABF32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6611FA-1790-4984-9F93-874F58ABF32C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36BEE1A5-890F-4CCD-AE2A-ADE2FF6F5CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36BEE1A5-890F-4CCD-AE2A-ADE2FF6F5CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36BEE1A5-890F-4CCD-AE2A-ADE2FF6F5CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36BEE1A5-890F-4CCD-AE2A-ADE2FF6F5CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C8734E3-8309-4FE8-80DA-022ED30D47FF}
+	EndGlobalSection
+EndGlobal

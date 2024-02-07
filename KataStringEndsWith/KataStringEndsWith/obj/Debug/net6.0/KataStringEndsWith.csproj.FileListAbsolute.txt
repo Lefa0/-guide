@@ -1,0 +1,15 @@
+C:\Users\lefam\source\repos\KataStringEndsWith\KataStringEndsWith\bin\Debug\net6.0\KataStringEndsWith.exe
+C:\Users\lefam\source\repos\KataStringEndsWith\KataStringEndsWith\bin\Debug\net6.0\KataStringEndsWith.deps.json
+C:\Users\lefam\source\repos\KataStringEndsWith\KataStringEndsWith\bin\Debug\net6.0\KataStringEndsWith.runtimeconfig.json
+C:\Users\lefam\source\repos\KataStringEndsWith\KataStringEndsWith\bin\Debug\net6.0\KataStringEndsWith.dll
+C:\Users\lefam\source\repos\KataStringEndsWith\KataStringEndsWith\bin\Debug\net6.0\KataStringEndsWith.pdb
+C:\Users\lefam\source\repos\KataStringEndsWith\KataStringEndsWith\obj\Debug\net6.0\KataStringEndsWith.csproj.AssemblyReference.cache
+C:\Users\lefam\source\repos\KataStringEndsWith\KataStringEndsWith\obj\Debug\net6.0\KataStringEndsWith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lefam\source\repos\KataStringEndsWith\KataStringEndsWith\obj\Debug\net6.0\KataStringEndsWith.AssemblyInfoInputs.cache
+C:\Users\lefam\source\repos\KataStringEndsWith\KataStringEndsWith\obj\Debug\net6.0\KataStringEndsWith.AssemblyInfo.cs
+C:\Users\lefam\source\repos\KataStringEndsWith\KataStringEndsWith\obj\Debug\net6.0\KataStringEndsWith.csproj.CoreCompileInputs.cache
+C:\Users\lefam\source\repos\KataStringEndsWith\KataStringEndsWith\obj\Debug\net6.0\KataStringEndsWith.dll
+C:\Users\lefam\source\repos\KataStringEndsWith\KataStringEndsWith\obj\Debug\net6.0\refint\KataStringEndsWith.dll
+C:\Users\lefam\source\repos\KataStringEndsWith\KataStringEndsWith\obj\Debug\net6.0\KataStringEndsWith.pdb
+C:\Users\lefam\source\repos\KataStringEndsWith\KataStringEndsWith\obj\Debug\net6.0\KataStringEndsWith.genruntimeconfig.cache
+C:\Users\lefam\source\repos\KataStringEndsWith\KataStringEndsWith\obj\Debug\net6.0\ref\KataStringEndsWith.dll

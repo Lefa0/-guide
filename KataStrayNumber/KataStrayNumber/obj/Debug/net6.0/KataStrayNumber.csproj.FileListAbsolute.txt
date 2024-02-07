@@ -1,0 +1,15 @@
+C:\Users\lefam\source\repos\KataStrayNumber\KataStrayNumber\bin\Debug\net6.0\KataStrayNumber.exe
+C:\Users\lefam\source\repos\KataStrayNumber\KataStrayNumber\bin\Debug\net6.0\KataStrayNumber.deps.json
+C:\Users\lefam\source\repos\KataStrayNumber\KataStrayNumber\bin\Debug\net6.0\KataStrayNumber.runtimeconfig.json
+C:\Users\lefam\source\repos\KataStrayNumber\KataStrayNumber\bin\Debug\net6.0\KataStrayNumber.dll
+C:\Users\lefam\source\repos\KataStrayNumber\KataStrayNumber\bin\Debug\net6.0\KataStrayNumber.pdb
+C:\Users\lefam\source\repos\KataStrayNumber\KataStrayNumber\obj\Debug\net6.0\KataStrayNumber.csproj.AssemblyReference.cache
+C:\Users\lefam\source\repos\KataStrayNumber\KataStrayNumber\obj\Debug\net6.0\KataStrayNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lefam\source\repos\KataStrayNumber\KataStrayNumber\obj\Debug\net6.0\KataStrayNumber.AssemblyInfoInputs.cache
+C:\Users\lefam\source\repos\KataStrayNumber\KataStrayNumber\obj\Debug\net6.0\KataStrayNumber.AssemblyInfo.cs
+C:\Users\lefam\source\repos\KataStrayNumber\KataStrayNumber\obj\Debug\net6.0\KataStrayNumber.csproj.CoreCompileInputs.cache
+C:\Users\lefam\source\repos\KataStrayNumber\KataStrayNumber\obj\Debug\net6.0\KataStrayNumber.dll
+C:\Users\lefam\source\repos\KataStrayNumber\KataStrayNumber\obj\Debug\net6.0\refint\KataStrayNumber.dll
+C:\Users\lefam\source\repos\KataStrayNumber\KataStrayNumber\obj\Debug\net6.0\KataStrayNumber.pdb
+C:\Users\lefam\source\repos\KataStrayNumber\KataStrayNumber\obj\Debug\net6.0\KataStrayNumber.genruntimeconfig.cache
+C:\Users\lefam\source\repos\KataStrayNumber\KataStrayNumber\obj\Debug\net6.0\ref\KataStrayNumber.dll

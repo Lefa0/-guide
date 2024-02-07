@@ -1,0 +1,15 @@
+C:\Users\lefam\source\repos\KataReversedStrings\KataReversedStrings\bin\Debug\net6.0\KataReversedStrings.exe
+C:\Users\lefam\source\repos\KataReversedStrings\KataReversedStrings\bin\Debug\net6.0\KataReversedStrings.deps.json
+C:\Users\lefam\source\repos\KataReversedStrings\KataReversedStrings\bin\Debug\net6.0\KataReversedStrings.runtimeconfig.json
+C:\Users\lefam\source\repos\KataReversedStrings\KataReversedStrings\bin\Debug\net6.0\KataReversedStrings.dll
+C:\Users\lefam\source\repos\KataReversedStrings\KataReversedStrings\bin\Debug\net6.0\KataReversedStrings.pdb
+C:\Users\lefam\source\repos\KataReversedStrings\KataReversedStrings\obj\Debug\net6.0\KataReversedStrings.csproj.AssemblyReference.cache
+C:\Users\lefam\source\repos\KataReversedStrings\KataReversedStrings\obj\Debug\net6.0\KataReversedStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lefam\source\repos\KataReversedStrings\KataReversedStrings\obj\Debug\net6.0\KataReversedStrings.AssemblyInfoInputs.cache
+C:\Users\lefam\source\repos\KataReversedStrings\KataReversedStrings\obj\Debug\net6.0\KataReversedStrings.AssemblyInfo.cs
+C:\Users\lefam\source\repos\KataReversedStrings\KataReversedStrings\obj\Debug\net6.0\KataReversedStrings.csproj.CoreCompileInputs.cache
+C:\Users\lefam\source\repos\KataReversedStrings\KataReversedStrings\obj\Debug\net6.0\KataReversedStrings.dll
+C:\Users\lefam\source\repos\KataReversedStrings\KataReversedStrings\obj\Debug\net6.0\refint\KataReversedStrings.dll
+C:\Users\lefam\source\repos\KataReversedStrings\KataReversedStrings\obj\Debug\net6.0\KataReversedStrings.pdb
+C:\Users\lefam\source\repos\KataReversedStrings\KataReversedStrings\obj\Debug\net6.0\KataReversedStrings.genruntimeconfig.cache
+C:\Users\lefam\source\repos\KataReversedStrings\KataReversedStrings\obj\Debug\net6.0\ref\KataReversedStrings.dll

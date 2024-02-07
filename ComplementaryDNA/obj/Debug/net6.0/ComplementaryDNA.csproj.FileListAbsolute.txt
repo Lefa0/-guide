@@ -1,0 +1,15 @@
+C:\Users\lefam\source\repos\ComplementaryDNA\bin\Debug\net6.0\ComplementaryDNA.exe
+C:\Users\lefam\source\repos\ComplementaryDNA\bin\Debug\net6.0\ComplementaryDNA.deps.json
+C:\Users\lefam\source\repos\ComplementaryDNA\bin\Debug\net6.0\ComplementaryDNA.runtimeconfig.json
+C:\Users\lefam\source\repos\ComplementaryDNA\bin\Debug\net6.0\ComplementaryDNA.dll
+C:\Users\lefam\source\repos\ComplementaryDNA\bin\Debug\net6.0\ComplementaryDNA.pdb
+C:\Users\lefam\source\repos\ComplementaryDNA\obj\Debug\net6.0\ComplementaryDNA.csproj.AssemblyReference.cache
+C:\Users\lefam\source\repos\ComplementaryDNA\obj\Debug\net6.0\ComplementaryDNA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lefam\source\repos\ComplementaryDNA\obj\Debug\net6.0\ComplementaryDNA.AssemblyInfoInputs.cache
+C:\Users\lefam\source\repos\ComplementaryDNA\obj\Debug\net6.0\ComplementaryDNA.AssemblyInfo.cs
+C:\Users\lefam\source\repos\ComplementaryDNA\obj\Debug\net6.0\ComplementaryDNA.csproj.CoreCompileInputs.cache
+C:\Users\lefam\source\repos\ComplementaryDNA\obj\Debug\net6.0\ComplementaryDNA.dll
+C:\Users\lefam\source\repos\ComplementaryDNA\obj\Debug\net6.0\refint\ComplementaryDNA.dll
+C:\Users\lefam\source\repos\ComplementaryDNA\obj\Debug\net6.0\ComplementaryDNA.pdb
+C:\Users\lefam\source\repos\ComplementaryDNA\obj\Debug\net6.0\ComplementaryDNA.genruntimeconfig.cache
+C:\Users\lefam\source\repos\ComplementaryDNA\obj\Debug\net6.0\ref\ComplementaryDNA.dll

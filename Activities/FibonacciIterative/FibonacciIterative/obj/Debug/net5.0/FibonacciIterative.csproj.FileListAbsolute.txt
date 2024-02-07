@@ -1,0 +1,16 @@
+C:\Users\m.moletsane\source\repos\FibonacciIterative\FibonacciIterative\bin\Debug\net5.0\FibonacciIterative.exe
+C:\Users\m.moletsane\source\repos\FibonacciIterative\FibonacciIterative\bin\Debug\net5.0\FibonacciIterative.deps.json
+C:\Users\m.moletsane\source\repos\FibonacciIterative\FibonacciIterative\bin\Debug\net5.0\FibonacciIterative.runtimeconfig.json
+C:\Users\m.moletsane\source\repos\FibonacciIterative\FibonacciIterative\bin\Debug\net5.0\FibonacciIterative.runtimeconfig.dev.json
+C:\Users\m.moletsane\source\repos\FibonacciIterative\FibonacciIterative\bin\Debug\net5.0\FibonacciIterative.dll
+C:\Users\m.moletsane\source\repos\FibonacciIterative\FibonacciIterative\bin\Debug\net5.0\FibonacciIterative.pdb
+C:\Users\m.moletsane\source\repos\FibonacciIterative\FibonacciIterative\obj\Debug\net5.0\FibonacciIterative.csproj.AssemblyReference.cache
+C:\Users\m.moletsane\source\repos\FibonacciIterative\FibonacciIterative\obj\Debug\net5.0\FibonacciIterative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.moletsane\source\repos\FibonacciIterative\FibonacciIterative\obj\Debug\net5.0\FibonacciIterative.AssemblyInfoInputs.cache
+C:\Users\m.moletsane\source\repos\FibonacciIterative\FibonacciIterative\obj\Debug\net5.0\FibonacciIterative.AssemblyInfo.cs
+C:\Users\m.moletsane\source\repos\FibonacciIterative\FibonacciIterative\obj\Debug\net5.0\FibonacciIterative.csproj.CoreCompileInputs.cache
+C:\Users\m.moletsane\source\repos\FibonacciIterative\FibonacciIterative\obj\Debug\net5.0\FibonacciIterative.dll
+C:\Users\m.moletsane\source\repos\FibonacciIterative\FibonacciIterative\obj\Debug\net5.0\refint\FibonacciIterative.dll
+C:\Users\m.moletsane\source\repos\FibonacciIterative\FibonacciIterative\obj\Debug\net5.0\FibonacciIterative.pdb
+C:\Users\m.moletsane\source\repos\FibonacciIterative\FibonacciIterative\obj\Debug\net5.0\FibonacciIterative.genruntimeconfig.cache
+C:\Users\m.moletsane\source\repos\FibonacciIterative\FibonacciIterative\obj\Debug\net5.0\ref\FibonacciIterative.dll

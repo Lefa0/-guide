@@ -1,0 +1,15 @@
+C:\Users\lefam\source\repos\ListFiltering\ListFiltering\bin\Debug\net6.0\ListFiltering.exe
+C:\Users\lefam\source\repos\ListFiltering\ListFiltering\bin\Debug\net6.0\ListFiltering.deps.json
+C:\Users\lefam\source\repos\ListFiltering\ListFiltering\bin\Debug\net6.0\ListFiltering.runtimeconfig.json
+C:\Users\lefam\source\repos\ListFiltering\ListFiltering\bin\Debug\net6.0\ListFiltering.dll
+C:\Users\lefam\source\repos\ListFiltering\ListFiltering\bin\Debug\net6.0\ListFiltering.pdb
+C:\Users\lefam\source\repos\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.csproj.AssemblyReference.cache
+C:\Users\lefam\source\repos\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lefam\source\repos\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.AssemblyInfoInputs.cache
+C:\Users\lefam\source\repos\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.AssemblyInfo.cs
+C:\Users\lefam\source\repos\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.csproj.CoreCompileInputs.cache
+C:\Users\lefam\source\repos\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.dll
+C:\Users\lefam\source\repos\ListFiltering\ListFiltering\obj\Debug\net6.0\refint\ListFiltering.dll
+C:\Users\lefam\source\repos\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.pdb
+C:\Users\lefam\source\repos\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.genruntimeconfig.cache
+C:\Users\lefam\source\repos\ListFiltering\ListFiltering\obj\Debug\net6.0\ref\ListFiltering.dll
